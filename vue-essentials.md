@@ -31,3 +31,6 @@ In this course, students will spend time learning the basics of Vue.JS and how t
 ## Prerequisites 
 * A text editor of choice. We use Visual Studio Code (https://code.visualstudio.com), as it’s free, popular, and widely supported.
 * Basic understanding of JavaScript Fundamentals
+
+# Book today
+For more information or quotes for getting your team trained, please contact us at info@swiftkick.in.
