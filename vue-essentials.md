@@ -11,7 +11,7 @@ In this course, students will spend time learning the basics of Vue.JS and how t
 ## Objectives
  * Students will learn how to build views with Vue.js
  * Students will learn how to render out dynamic data, such as data returned from external web services
- * Students will learn how to listen for events, and how to react accordinly when they occur
+ * Students will learn how to listen for events, and how to react accordingly when they occur
  * Students will learn how Vue.js fits into a larger web application ecosystem
 
 ## Outline
