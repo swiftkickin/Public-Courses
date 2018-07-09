@@ -7,7 +7,9 @@ Delivered as in-person or virtual training
 JavaScript is an extremely popular mainstream programming language.  Without it, the Internet and web sites would not be where they are today.  JavaScript is not without its baggage though, and it can be a frustrating language to jump into.  This course aims to bring students up to date with the latest version of JavaScript (ES6), and build a foundation for building robust web-based applications. 
 
 ## Objectives
- * Students will learn *something*
+ * Students will learn the fundmentals of JavaScript
+ * Students will learn how JavaScript fits into a modern web application infrastructure
+ * Students will learn techniques for quickly and easily debugging of JavaScript applications
  
 ## Outline
 * A Quick History of JavaScript
